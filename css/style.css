@@ -1,0 +1,72 @@
+html {
+  background-color: black;
+}
+
+.title {
+  color: #06a89e;
+  text-align: center;
+}
+
+.what {
+  color: crimson;
+}
+
+.why {
+  color: yellow;
+}
+
+.see {
+  color: #0D98BA;
+}
+
+p {
+  color: white;
+  text-align: Center;
+}
+
+h1 {
+  color: #f442d9;
+}
+
+h2 {
+  color: yellow;
+}
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: green;
+}
+
+h5 {
+  color: Grey;
+}
+
+h6 {
+  color: white;
+}
+
+a {
+  color: #35847f;
+  /* text-align: center; */
+}
+
+ul, li {
+  color: #2de2d3;
+  text-align: center;
+  list-style-type: none;
+}
+
+a:hover {
+  color: #2de2d3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center
+}
+
+.hateful8 {
+  text-align: center;
+}
