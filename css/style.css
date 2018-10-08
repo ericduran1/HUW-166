@@ -6,21 +6,62 @@ html {
   color: Red;
 }
 
+.name2 {
+  color: blue;
+}
+
+.name3 {
+  color: green;
+}
+
 .box {
   position: absolute;
   left: 100px;
   right: 100px;
   margin: auto
   width: 700px;
-  height: 1000px;
+  height: auto;
   padding: 50px;
   border: 1px solid red;
+}
+
+.box2 {
+  position: absolute;
+  left: 100px;
+  right: 100px;
+  margin: auto
+  width: 700px;
+  height: auto;
+  padding: 50px;
+  border: 1px solid green;
+}
+
+.box3 {
+  position: absolute;
+  left: 100px;
+  right: 100px;
+  margin: auto
+  width: 700px;
+  height: auto;
+  padding: 50px;
+  border: 1px solid blue;
 }
 
 .title {
   color: #06a89e;
   text-align: center;
 }
+
+.title2 {
+  color: grey;
+  text-align: center;
+}
+
+.title3 {
+  color: yellow;
+  text-align: center;
+}
+
 
 .what {
   color: crimson;
@@ -47,22 +88,6 @@ h2 {
   color: yellow;
 }
 
-h3 {
-  color: blue;
-}
-
-h4 {
-  color: green;
-}
-
-h5 {
-  color: Grey;
-}
-
-h6 {
-  color: white;
-}
-
 a {
   color: #35847f;
   /* text-align: center; */
@@ -84,4 +109,26 @@ h1, h2, h3, h4, h5, h6 {
 
 .hateful8 {
   text-align: center;
+  height: auto;
+  width: auto;
+  object-fit: cover;
+}
+
+.thelifeofpablo {
+  text-align: center;
+  height: auto;
+  width: auto;
+  object-fit: cover;
+}
+
+.Narcos {
+  text-align: center;
+  height: auto;
+  width: auto;
+  object-fit: cover;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
