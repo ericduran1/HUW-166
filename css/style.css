@@ -2,6 +2,10 @@ html {
   background-color: black;
 }
 
+nav {
+  text-align: center;
+}
+
 .name {
   color: Red;
 }
